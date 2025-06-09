@@ -101,10 +101,3 @@ Email: [patilprachi2598@gmail.com](mailto:patilprachi2598@gmail.com)
 
 Feel free to contribute or raise issues!
 
-
-```
-
----
-
-
-```
